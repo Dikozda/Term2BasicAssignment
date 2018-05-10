@@ -3,6 +3,7 @@
 #include <string>
 #include <vector>
 #include <csignal>
+#include "MapNode.h"
 
 using namespace std;
 
@@ -16,7 +17,7 @@ void MapGen()
 
 }
 
-void SortArray(vector<vector<int>> Map)
+void SortArray(vector<vector<mapNode>> Map)
 {
 
 }
